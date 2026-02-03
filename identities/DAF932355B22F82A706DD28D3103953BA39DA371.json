@@ -20,9 +20,19 @@
   },
   "proofOfExistence": {
     "network": "mainnet",
-    "txid": "2b3769f1e360341bcc59be8b0fc916c0fb5c6501b8c5a9fa27db12e27e4c5eaa",
-    "opReturn": "ATP:0.4:id:DAF932355B22F82A",
-    "confirmedAt": "2026-02-03T04:33:58.421Z"
+    "txids": [
+      {
+        "txid": "2b3769f1e360341bcc59be8b0fc916c0fb5c6501b8c5a9fa27db12e27e4c5eaa",
+        "opReturn": "ATP:0.4:id:DAF932355B22F82A",
+        "note": "Initial anchor (truncated fingerprint - superseded)"
+      },
+      {
+        "txid": "6ffcca0cc29da514e784b27155e68c3d4c1ca2deeb6dc9ce020a4d7e184eaa1c",
+        "opReturn": "ATP:0.4:id:DAF932355B22F82A706DD28D3103953BA39DA371",
+        "note": "Full fingerprint per ATP-RFC-0001"
+      }
+    ],
+    "canonical": "6ffcca0cc29da514e784b27155e68c3d4c1ca2deeb6dc9ce020a4d7e184eaa1c"
   },
   "binding_proofs": [],
   "created": 1770088000,
