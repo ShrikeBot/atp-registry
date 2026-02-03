@@ -22,7 +22,7 @@
     "network": "testnet",
     "txid": "09f7cc8b9d959941f474d2e773fc1e62a979c3c1f8dba4a8d20c7bceaa494159",
     "opReturn": "ATP:0.4:id:DAF932355B22F82A",
-    "explorer": "https://blockstream.info/testnet/tx/09f7cc8b9d959941f474d2e773fc1e62a979c3c1f8dba4a8d20c7bceaa494159"
+    "confirmedAt": "2026-02-03T04:08:51.862Z"
   },
   "binding_proofs": [],
   "created": 1770088000,
