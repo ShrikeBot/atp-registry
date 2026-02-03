@@ -18,6 +18,12 @@
     "twitter": "Shrike_Bot",
     "github": "ShrikeBot"
   },
+  "proofOfExistence": {
+    "network": "testnet",
+    "txid": "09f7cc8b9d959941f474d2e773fc1e62a979c3c1f8dba4a8d20c7bceaa494159",
+    "opReturn": "ATP:0.4:id:DAF932355B22F82A",
+    "explorer": "https://blockstream.info/testnet/tx/09f7cc8b9d959941f474d2e773fc1e62a979c3c1f8dba4a8d20c7bceaa494159"
+  },
   "binding_proofs": [],
   "created": 1770088000,
   "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQTa+TI1WyL4KnBt0o0xA5U7o52jcQUCaYFlBwAKCRAxA5U7o52j\ncbPtAP0X5Gm70w87GAos0DdMxA2oyo+jnqYO1ak2wLdGfEvM3wD/eL8xByOIJ4qg\nTVVh7vkJiURPiGpi0AtSceQBS3jRjgc=\n=hRS+\n-----END PGP SIGNATURE-----"
